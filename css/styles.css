@@ -45,6 +45,10 @@ a {
 
 }
 
+.circular{
+  border-radius: 100%
+}
+
 a:hover {
   color: #eaf6f6;
 }
